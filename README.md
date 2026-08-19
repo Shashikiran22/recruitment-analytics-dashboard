@@ -59,6 +59,17 @@ Aspiring Data Analyst | MBA | SQL | Python | Excel | Power BI
 ![Page 4](P4.png)
 
 
+# 📊 Dashboard Screenshots
+### 1. Recruitment Analytics Overview
+![Dashboard Overview](P1.png)
+### 2. Recruitment Process Dashboard
+![Recruitment Process](P2.png)
+### 3. Candidate & Hiring Analysis
+![Candidate & Hiring Analysis](P3.png)
+### 4. Recruitment Insights
+![Recruitment Insights](P4.png)
+
+
 
 
 
