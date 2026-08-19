@@ -58,6 +58,17 @@ Aspiring Data Analyst | MBA | SQL | Python | Excel | Power BI
 ### 4. Recruitment Insights
 ![Recruitment Insights](P4.png)
 
+## 📊 Key Insights
+- Total candidates analyzed: 50
+- Selected candidates: 8
+- Overall selection rate: 16%
+- Average candidate score: 76.14
+- Recruitment progress and candidate status were analyzed using interactive Power BI visuals.
+- The dashboard helps identify recruitment trends and supports data-driven hiring decisions.
+
+## 💡 Business Value
+This dashboard helps HR and recruitment teams monitor candidate performance, track hiring progress, analyze vacancies, and make faster data-driven recruitment decisions.
+
 
 
 
