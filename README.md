@@ -44,7 +44,26 @@ The objective of this project is to transform recruitment data into an interacti
 - Excel Data Handling
 
 👤 Author
-
 Shashikiran GM
-
 Aspiring Data Analyst | MBA | SQL | Python | Excel | Power BI
+
+
+## Dashboard Screenshots
+### Recruitment Analytics Dashboard
+![Page 1](P1.png)
+### Candidate & Hiring Analysis
+![Page 2](P2.png)
+### Recruitment Overview
+![Page 3](P3.png)
+### Dashboard Home
+![Page 4](P4.png)
+
+
+
+
+
+
+
+
+
+
